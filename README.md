@@ -1,2 +1,3 @@
 # CAS-Programming
-CAS Programming at ISB
+
+A git repositery for CAS programming at ISB. Do not hesitate to ask anything if something is not working well. 
