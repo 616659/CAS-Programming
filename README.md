@@ -8,8 +8,5 @@ A git repositery for CAS programming project at ISB.
 If any issue occurs regards the programming environment, message Will. 
 For setting up Git environment, [click here](https://drive.google.com/file/d/1dGC4mo08EoykKVhqnBuuDi4vChA0Scvd/view?usp=sharing)
 
-### Licence
-[Creative Commons Zero v1.0 Universal](https://github.com/616659/CAS-Programming/blob/master/LICENSE)
-
 ### Hook
 curl -X POST https://api.zeit.co/v1/integrations/deployQmNW3TG5mu9xHgg2D77YgykNapsuVvkxqWjYmXG2hzPG1o/Iqqflxb08x
