@@ -9,4 +9,4 @@ If any issue occurs regards the programming environment, message [Will](https://
 For setting up Git environment, [click here](https://drive.google.com/file/d/1dGC4mo08EoykKVhqnBuuDi4vChA0Scvd/view?usp=sharing)
 
 ### Hook
-curl -X POST https://api.zeit.co/v1/integrations/deployQmNW3TG5mu9xHgg2D77YgykNapsuVvkxqWjYmXG2hzPG1o/Iqqflxb08x
+curl -X POST https://api.zeit.co/v1/integrations/deploy/QmNW3TG5mu9xHgg2D77YgykNapsuVvkxqWjYmXG2hzPG1o/1XaBb7QN5q
