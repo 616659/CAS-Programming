@@ -2,7 +2,7 @@
 
 A git repositery for CAS programming project at ISB. 
 
-[![cc0](https://img.shields.io/badge/Creative%20Commons-0-lightgrey)](https://github.com/616659/CAS-Programming/blob/master/LICENSE) 
+[![cc0](https://img.shields.io/github/license/616659/CAS-Programming)](https://github.com/616659/CAS-Programming/blob/master/LICENSE) 
 
 ## Tech Support 
 If any issue occurs regards the programming environment, message [Will](https://www.facebook.com/will.mefmg.9). 
