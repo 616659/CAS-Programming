@@ -2,6 +2,7 @@
 
 A git repositery for CAS programming project at ISB. 
 
+[![website_status](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fcas-programming.now.sh%2F)](https://cas-programming.now.sh/)
 [![cc0](https://img.shields.io/github/license/616659/CAS-Programming)](https://github.com/616659/CAS-Programming/blob/master/LICENSE) 
 
 ## Tech Support 
