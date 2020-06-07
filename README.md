@@ -13,5 +13,5 @@ A git repositery for CAS programming project at ISB.
 If any issue occurs regards the programming environment, message [Will](https://www.facebook.com/will.mefmg.9). 
 For setting up Git environment, register to GitHub, download [Visual Studio Code](https://code.visualstudio.com/), then [click here](https://drive.google.com/file/d/1dGC4mo08EoykKVhqnBuuDi4vChA0Scvd/view?usp=sharing)
 
-### Hook (Don't mind this)
+### Hook
 curl -X POST https://api.zeit.co/v1/integrations/deploy/QmNW3TG5mu9xHgg2D77YgykNapsuVvkxqWjYmXG2hzPG1o/1XaBb7QN5q
