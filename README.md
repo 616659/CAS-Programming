@@ -2,7 +2,7 @@
 
 A git repositery for CAS programming project at ISB. 
 
-[![websiteStatus](https://img.shields.io/website?label=Website&up_message=Ready&url=https%3A%2F%2Fcas-programming.now.sh)](https://cas-programming.now.sh/)
+[![websiteStatus](https://img.shields.io/website?label=Website&up_message=Ready&url=https%3A%2F%2Fesisb.now.shx)](https://esisb.now.sh)
 [![host](https://img.shields.io/badge/Host-Vercel-50E3C2)](https://vercel.com/616659/cas-programming)
 ![contributors](https://img.shields.io/github/contributors/616659/CAS-Programming?color=blue)
 ![lastCommit](https://img.shields.io/github/last-commit/616659/CAS-Programming?color=0366d6)
