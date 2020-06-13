@@ -1,6 +1,6 @@
-# CAS-Programming
+# ESISB
 
-A git repositery for CAS programming project at ISB. 
+A git repositery for CAS programming / environemntal science project at International School of Busan. 
 
 [![websiteStatus](https://img.shields.io/website?down_color=red&down_message=Down&label=Website&up_color=lightgreen&up_message=Up&url=https%3A%2F%2Fesisb.now.sh%2F)](https://esisb.now.sh)
 [![host](https://img.shields.io/badge/Host-Vercel-50E3C2)](https://vercel.com/616659/cas-programming)
