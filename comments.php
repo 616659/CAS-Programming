@@ -14,6 +14,8 @@
     Pleas leave a comments
 </h1>
 
+<?php include('comments.php') ?>
+
     <form action="#" method="post">
         Name <input type="text" name="name"><br/>
         Email <input type="email" name="email"><br/>
