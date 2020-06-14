@@ -22,11 +22,13 @@
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $name = $_REQUEST['name'];
             $email = $_REQUEST['email'];
-            $text = $_REQUEST['text'];
+            $comment = $_REQUEST['comment'];
 
                 echo $name;
+                echo "\n";
                 echo $email;
-                echo $text;
+                echo "\n";
+                echo $comment;
             }
         ?>
 
