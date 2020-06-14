@@ -20,15 +20,15 @@
 
         <?php
         if ($_SERVER["REQUEST_METHOD"] == "POST") {
-            $name = $_REQUEST['name'];
-            $email = $_REQUEST['email'];
-            $comment = $_REQUEST['comment'];
-
-                echo $name;
-                echo "\n";
-                echo $email;
-                echo "\n";
-                echo $comment;
+               $name = $_REQUEST['name'];
+               $email = $_REQUEST['email'];
+               $comment = $_REQUEST['comment'];
+               
+               echo $name;
+               echo "\n";
+               echo $email;
+               echo "\n";
+               echo $comment;
             }
         ?>
 
