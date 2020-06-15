@@ -1,41 +1,101 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <style>
+        body 
+            {
+                background-color: rgb(206, 236, 206);
+                background-repeat:no-repeat;
+                background-size:cover
+            }
+        h1 {
+                text-decoration: none;
+                text-shadow: 2px 2px 5px green;
+            }
+
+        .container 
+            {
+                position: relative;
+                text-align: center;
+            }
+        
+
+        .centered 
+            {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+
+    </style>
 </head>
 <body>
+    
+    <a href="index.html">
+        
+        <h1>
+            <div 
+                id="grad1" style="text-align:left;margin:auto;color:#000000;font-size:80px;font-weight:bold">
+                <img src="picture/logo.png" width="200" height="200"> 
+                ESISB
+            </div>
+            
+        </h1>
+    </a>
+    
     <div class="container">
         <div class="nav-wrapper">
             <div class="nav-link-wrapper">
-                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+            </div>
+            <div class="nav-link-wrapper">
+                <a href="science.html">Science</a>
             </div>
             <div class="drop-down">
                 <button class="dropbtn">Articles</button>
                 <div class="drop-down-content">
                     <div class="nav-link-wrapper">
-                        <a href="article1.html">Article 1</a>
+                        <a href="article/article1.html">Article 1</a>
                     </div>
                     <div class="nav-link-wrapper">
-                        <a href="article2.html">Article 2</a>
+                        <a href="article/article2.html">Article 2</a>
                     </div>
                     <div class="nav-link-wrapper">
-                        <a href="article3.html">Article 3</a>
+                        <a href="article/article3.html">Article 3</a>
                     </div>
                     <!--this is where article links go, currently tentative-->
                 </div>
             </div>
             <div class="nav-link-wrapper">
-                <a href="about.html">About Us</a>
+                <a href="api/comments.php">Comments</a>
             </div>
+            <div class="nav-link-wrapper">
+                <a href="quiz.html">Quiz</a>
+            </div>    
         </div>
-        <h1>Home page.</h1>
 
-        <p>Hello! <a href="test.html">Click here</a> to visit test page</a></p>
+        <p>
+            <button id="date">Click me to show today's date.</button>
+            <script src=randomjs.js></script>
 
-        <button id="date">Click me to show today's date.</button>
+        </p>
+        <div>
+            <img src="/picture/environment.png" >
+        </div>
 
-        <script src=randomjs.js></script>
+        <div class="container">
+            <img src="/picture/randomimage.png " width="100" height="100">
+            <img src="picture/testspeech.png" alt="Nature"  width="600" height="100">
+            <div class="centered" style="color:darkcyan; font-size: 50px;">"Slogan"</div>
+        </div>
+          
+
     </div>
+
 
 </body>
 </html>
