@@ -7,7 +7,7 @@
         <a href="/index.html">
            <img src="/picture/logo.png" width="200" height="200">
        </a>
-        <h1> Please leave a comments </h1>
+        <h1> Please leave a comment below </h1>
 
        <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
            Name <input type="text" name="name"><br/>
