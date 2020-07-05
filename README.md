@@ -4,7 +4,6 @@ A git repositery for CAS programming / environemntal science project at Internat
 
 [![websiteStatus](https://img.shields.io/website?down_color=red&down_message=Down&label=Website&up_color=lightgreen&up_message=Up&url=https%3A%2F%2Fesisb.now.sh%2F)](https://esisb.now.sh)
 [![host](https://img.shields.io/badge/Host-Vercel-50E3C2)](https://vercel.com/616659/cas-programming)
-![contributors](https://img.shields.io/github/contributors/616659/CAS-Programming?color=blue)
 ![lastCommit](https://img.shields.io/github/last-commit/616659/CAS-Programming?color=0366d6)
 ![repoSize](https://img.shields.io/github/repo-size/616659/CAS-Programming?color=orange)
 [![license](https://img.shields.io/github/license/616659/CAS-Programming?color=lightgrey&label=License)](https://github.com/616659/CAS-Programming/blob/master/LICENSE) 
