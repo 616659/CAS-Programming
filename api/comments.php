@@ -29,6 +29,7 @@
                 $password = "CASProj2020!";
                 $dBName = "ESiSBDB";
 
+                //connect to SQL
                 $conn = new mysqli ($serverName, $username, $password, $dBName);
 
                 //detect any connection error
