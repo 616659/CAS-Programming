@@ -2,7 +2,7 @@
     "functions": {
       "api/comments.php": {
         "runtime": "now-php@0.0.10",
-        "memory": 3008,
+        "memory": 1024,
         "maxDuration": 10
       }
     }
