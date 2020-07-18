@@ -9,7 +9,7 @@
        </a>
         <h1> Please leave a comment below </h1>
 
-       <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
+       <form method="POST" action="<?php echo $_SERVER['PHP_SELF'];?>">
            Name <input type="text" name="name"><br/>
            Email <input type="email" name="email"><br/>
            Comment <input type="text"  name="comment"><br/>
@@ -27,7 +27,7 @@
                 $serverName = "125.182.209.94";
                 $username = "Vercel";
                 $password = "CASProj2020!";
-                $dBName = "ESiSBDB";
+                $dBName = "ESISBDB";
 
                 //connect to SQL
                 $conn = new mysqli ($serverName, $username, $password, $dBName);
@@ -58,6 +58,7 @@
                       echo $row["name"]. " (" . $row["email"]. ")<br>" . $row["comment"] . "<br><br>";
                     }
                 } else {
+                //no data in database
                     echo "No results";
                 }
                 $conn->close();
