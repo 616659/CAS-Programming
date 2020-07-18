@@ -29,16 +29,16 @@
                 $password = "CASProj2020!";
                 $dBName = "ESISBDB";
 
-                //connect to SQL
-                $conn = new mysqli ($serverName, $username, $password, $dBName);
+                //connect to SQL using PDO
+                $conn = new PDO ("mysql:host=$servername;dbname=$dbname", $username, $password);
 
-                //detect any connection error
-                if ($conn->connect_error) {
-                    die("Connection failed: " . $conn->connect_error);
-                }
+                 // set the PDO error mode to exception
+                $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-                $sql = "INSERT INTO commentSection (name, email, comment)
+                //commentified for debugging
+                /*$sql = "INSERT INTO commentSection (name, email, comment)
                 VALUES ($name, $email, $comment)";
+                */
 
                 //testing if SQL works or not, will be removed once it is confirmed to work
                 if ($conn->query($sql) === TRUE) {
