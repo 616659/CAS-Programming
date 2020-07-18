@@ -1,7 +1,9 @@
 {
     "functions": {
-      "api/*.php": {
-        "runtime": "now-php@0.0.10"
+      "api/comments.php": {
+        "runtime": "now-php@0.0.10",
+        "memory": 3008,
+        "maxDuration": 10
       }
     }
 }
