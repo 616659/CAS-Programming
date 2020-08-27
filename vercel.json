@@ -1,9 +1,0 @@
-{
-    "functions": {
-      "api/comments.php": {
-        "runtime": "vercel-php@0.3.1",
-        "memory": 1024,
-        "maxDuration": 10
-      }
-    }
-}
